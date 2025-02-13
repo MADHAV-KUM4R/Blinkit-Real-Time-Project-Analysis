@@ -22,6 +22,6 @@ To offer a user-friendly and intuitive interface for business stakeholders to ma
 
 ## Complete Project:
 Please don't copy try to learn so, built by own.
-Project - <a href="https://github.com/MADHAV-KUM4R/Blinkit-Real-Time-Project-Analysis/blob/main/BlinkIT%20Grocery%20Data%20%20Project.xlsx">Dashboard</a>
+Project - <a href="https://github.com/MADHAV-KUM4R/Blinkit-Real-Time-Project-Analysis/blob/main/BlinkIT%20Grocery%20Data%20%20Project.xlsx">Complete_Project</a>
 
 ## THANK YOU 
